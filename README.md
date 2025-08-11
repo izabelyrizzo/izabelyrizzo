@@ -12,4 +12,6 @@ Aqui estão algumas ideias para você começar:
 - 📫 Como entrar em contato comigo: ... vxx n tenho telefone 
 - 😄 Pronomes: ... rizzo
 - ⚡ Curiosidade: ... sou diva
-  ✨“Onde o Espírito de Deus está, ali há liberdade. (2 Coríntios 3:17)
+  ✨“Onde o Espírito de Deus está, ali há liberdade. (2 Coríntis)
+
+![<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/c470dda0-4363-444e-9aa1-6d37e998fa39" />]
