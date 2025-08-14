@@ -1,7 +1,6 @@
 ## Olá 👋
 
-**izabelyrizzo/izabelyrizzo** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
-
+**izabelyrizzo/izabelyrizzo** é um repositório ✨ _especial_ ✨ 
 Aqui estão algumas ideias para você começar:
 
 - 🔭 Atualmente estou trabalhando em... nd
